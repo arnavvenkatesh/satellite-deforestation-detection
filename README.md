@@ -11,7 +11,7 @@ To view the hardware architecture, telemetry systems, and physical build of the 
 
 ---
 
-## 🚀 Engineering Highlights
+## 🚀 Highlights
 * **Real-Time Inference Loop:** Built an efficient screen-scraping architecture using OpenCV and `mss` to perform live, on-the-fly predictions on active mapping software and live video telemetry at minimal compute cost.
 * **Transfer Learning Backbone:** Implemented a pre-trained `MobileNetV2` architecture, fine-tuning top-layer weights to capture complex landscape textures and multi-spectral structural profiles rather than simple color maps.
 * **Curation & Data Hygiene:** Hand-managed a balanced multi-source pipeline to eliminate systemic data bias, training natively on an optimized 1:1 distribution.
